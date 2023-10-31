@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-- 🔭 I’m currently working on a Blood Bank Web Application, and discord bot.<br>- 🌱I'm currently learning Flutter and Dart, NextJS, AWS<br>- 💬Ask me about my projects!<br>- ⚡Fun Fact: Linux totally dominates supercomputers. As of 2018 100% of the world’s 500 fastest supercomputers run Linux. Impressive!<br><br>
+<br>- 🔭 I’m currently working on a Blood Bank Web Application, and discord bot.<br>- 🌱I'm currently learning Flutter and Dart, NextJS, AWS<br>- 💬Ask me about my projects!<br>- ⚡Fun Fact: Linux totally dominates supercomputers. As of 2018 100% of the world’s 500 fastest supercomputers run Linux. Impressive!<br><br>
 
 
 ## 🌐 Socials:
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ShanksCodes&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
